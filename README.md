@@ -4,8 +4,6 @@
 
 - ⚙️ I’m currently working on [Black Mesa](https://github.com/blackmesadev/black-mesa)
 
-- ⚙️ Working with [Axiom](https://github.com/axiomhq) in Developer Experience
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damaredayo&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="damaredayo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damaredayo&show_icons=true&locale=en&theme=synthwave" alt="damaredayo" /></p>
