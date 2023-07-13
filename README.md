@@ -2,7 +2,7 @@
 
 <h3 align="center">A Backend Developer from the United Kingdom</h3>
 
-- ⚙️ I’m currently working on [Black Mesa](https://github.com/blackmesadev/black-mesa)
+- ⚙️ I’m currently working on [Black Mesa](https://github.com/blackmesadev/black-mesa) and [delenix](https://github.com/damaredayo/delenix)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damaredayo&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="damaredayo" /></p>
 
